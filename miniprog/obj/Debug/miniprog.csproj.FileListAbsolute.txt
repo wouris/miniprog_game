@@ -1,0 +1,7 @@
+C:\Users\wouri\RiderProjects\miniprog\miniprog\bin\Debug\miniprog.exe
+C:\Users\wouri\RiderProjects\miniprog\miniprog\bin\Debug\miniprog.pdb
+C:\Users\wouri\RiderProjects\miniprog\miniprog\obj\Debug\miniprog.csproj.AssemblyReference.cache
+C:\Users\wouri\RiderProjects\miniprog\miniprog\obj\Debug\miniprog.csproj.SuggestedBindingRedirects.cache
+C:\Users\wouri\RiderProjects\miniprog\miniprog\obj\Debug\miniprog.csproj.CoreCompileInputs.cache
+C:\Users\wouri\RiderProjects\miniprog\miniprog\obj\Debug\miniprog.exe
+C:\Users\wouri\RiderProjects\miniprog\miniprog\obj\Debug\miniprog.pdb
